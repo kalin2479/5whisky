@@ -1,0 +1,153 @@
+[
+  {
+    "id": "sweet",
+    "sabor": "Sweet",
+    "productos": [
+      {
+        "id": 1,
+        "fotoGrande": "01.png",
+        "miniFoto": "gal1.png",
+        "titulo": "Johnnie Walker <br> BLACK LABEL RESERVE",
+        "subtitulo": "BLENDED SCOTCH WHISKY",
+        "url": "https://www.diageo.com/",
+        "descripcion": "<p>Lujoso, cremoso y con notas de miel, Johnnie Walker Gold Label Reserve es una mezcla de whiskies cuidadosamente seleccionados por Jim Beveridge, galardonado Master Blender para Johnnie Walker.</p><p>En el corazón de esta mezcla se encuentra el whisky Clynelish Single Malt, elaborado con agua proveniente de Kildonan Hills, donde se decía que habían pequeños yacimientos de oro en 1868 y es la historia por la que este suave e indulgente blend recibe su nombre.</p>",
+        "premios": [
+          {
+            "imagen": "premio1.png",
+            "cantidad": "4",
+            "titulo": "veces ganadora de<br>Le<span>Monde Selection<br>Grand Golds</span>"
+          },
+          {
+            "imagen": "premio2.png",
+            "cantidad": "3",
+            "titulo": "veces ganadora de<br>Le<span>Monde Selection<br>Grand Golds</span>"
+          }
+        ],
+        "active": true
+      },
+      {
+        "id": 2,
+        "fotoGrande": "02.png",
+        "miniFoto": "gal2.png",
+        "titulo": "Johnnie Walker <br> GOLD LABEL RESERVE",
+        "subtitulo": "BLENDED SCOTCH WHISKY",
+        "url": "https://www.diageo2.com/",
+        "descripcion": "<p>Lujoso11, cremoso y con notas de miel, Johnnie Walker Gold Label Reserve es una mezcla de whiskies cuidadosamente seleccionados por Jim Beveridge, galardonado Master Blender para Johnnie Walker.</p><p>En el corazón de esta mezcla se encuentra el whisky Clynelish Single Malt, elaborado con agua proveniente de Kildonan Hills, donde se decía que habían pequeños yacimientos de oro en 1868 y es la historia por la que este suave e indulgente blend recibe su nombre.</p>",
+        "premios": [
+          {
+            "imagen": "premio1.png",
+            "cantidad": "4",
+            "titulo": "veces ganadora de<br>Le<span>Monde Selection<br>Grand Golds</span>"
+          },
+          {
+            "imagen": "premio2.png",
+            "cantidad": "3",
+            "titulo": "veces ganadora de<br>Le<span>Monde Selection<br>Grand Golds</span>"
+          },
+          {
+            "imagen": "premio1.png",
+            "cantidad": "12",
+            "titulo": "veces ganadora de<br>Le<span>Monde Selection<br>Grand Golds</span>"
+          }
+        ],
+        "active": false
+      },
+      {
+        "id": 3,
+        "fotoGrande": "gal3.png",
+        "miniFoto": "gal3.png",
+        "titulo": "Johnnie Walker <br> DOUBLE BLACK",
+        "subtitulo": "BLENDED SCOTCH WHISKY",
+        "url": "https://www.diageo.com/",
+        "descripcion": "<p>Lujoso, cremoso y con notas de miel, Johnnie Walker Gold Label Reserve es una mezcla de whiskies cuidadosamente seleccionados por Jim Beveridge, galardonado Master Blender para Johnnie Walker.</p><p>En el corazón de esta mezcla se encuentra el whisky Clynelish Single Malt, elaborado con agua proveniente de Kildonan Hills, donde se decía que habían pequeños yacimientos de oro en 1868 y es la historia por la que este suave e indulgente blend recibe su nombre.</p>",
+        "premios": [
+          {
+            "imagen": "premio1.png",
+            "cantidad": "4",
+            "titulo": "veces ganadora de<br>Le<span>Monde Selection<br>Grand Golds</span>"
+          }
+        ],
+        "active": false
+      }
+    ],
+    "recetas": [
+      {
+        "id": 1,
+        "idProduct": 1,
+        "titulo": "JOHNNIE WALKER<br>BLACK LABEL RESERVE",
+        "subtitulo": "JOHNNIE WALKER BLACK LABEL RESERVE<br>BLENDED SCOTCH WHISKY",
+        "ingredientes": "<p>40 ml de <span>Johnnie Walker Gold Label Reserve</span></p><p>1 rodaja de naranja</p>",
+        "preparlo": "<p>Vertir el whisky en un vaso con hielo y adornar</p><p>con una rodaja de naranja.</p>",
+        "cierre": "Johnnie Walker Gold Label Reserve<br>convierte tus celebraciones en momentos inolvidables.",
+        "thumbnails": "mini1.jpg",
+        "type": "video",
+        "active": "active",
+        "poster": "video.png",
+        "name": "video.mp4",
+        "comprar": "http://www.google.com.pe"
+      },
+      {
+        "id": 2,
+        "idProduct": 2,
+        "titulo": "JOHNNIE WALKER2<br>GOLDEN SWEET<br>ORANGE",
+        "subtitulo": "JOHNNIE WALKER GOLD LABEL RESERVE<br>BLENDED SCOTCH WHISKY",
+        "ingredientes": "<p>140 ml de <span>Johnnie Walker Gold Label Reserve</span></p><p>1 rodaja de naranja</p>",
+        "preparlo": "<p>Vertir el whisky en un vaso con hielo y adornar</p><p>con una rodaja de naranja.</p>",
+        "cierre": "Johnnie Walker Gold Label Reserve<br>convierte tus celebraciones en momentos inolvidables.",
+        "thumbnails": "mini2.jpg",
+        "type": "imagen",
+        "active": "",
+        "poster": "",
+        "name": "big2.jpg",
+        "comprar": "http://www.facebook.com.pe"
+      },
+      {
+        "id": 3,
+        "idProduct": 3,
+        "titulo": "JOHNNIE WALKER3<br>GOLDEN SWEET<br>ORANGE",
+        "subtitulo": "JOHNNIE WALKER GOLD LABEL RESERVE<br>BLENDED SCOTCH WHISKY",
+        "ingredientes": "<p>80 ml de <span>Johnnie Walker Gold Label Reserve</span></p><p>1 rodaja de naranja</p>",
+        "preparlo": "<p>Vertir el whisky en un vaso con hielo y adornar</p><p>con una rodaja de naranja.</p>",
+        "cierre": "Johnnie Walker Gold Label Reserve<br>convierte tus celebraciones en momentos inolvidables.",
+        "thumbnails": "mini4.jpg",
+        "type": "video",
+        "active": "",
+        "poster": "video.png",
+        "name": "video2.mp4",
+        "comprar": "http://www.facebook.com.pe"
+      }
+    ]
+  },
+  {
+    "id": "smoky",
+    "sabor": "Smoky",
+    "productos": [
+      {
+        "fotoGrande": "01.png",
+        "miniFoto": "gal1.png",
+        "titulo": "Johnnie Walker <br> GOLD LABEL RESERVE",
+        "subtitulo": "BLENDED SCOTCH WHISKY",
+        "url": "https://www.diageo.com/",
+        "descripcion": "<p>Lujoso, cremoso y con notas de miel, Johnnie Walker Gold Label Reserve es una mezcla de whiskies cuidadosamente seleccionados por Jim Beveridge, galardonado Master Blender para Johnnie Walker.</p><p>En el corazón de esta mezcla se encuentra el whisky Clynelish Single Malt, elaborado con agua proveniente de Kildonan Hills, donde se decía que habían pequeños yacimientos de oro en 1868 y es la historia por la que este suave e indulgente blend recibe su nombre.</p>",
+        "premios": [
+          {
+            "imagen": "premio1.png",
+            "cantidad": "4",
+            "titulo": "veces ganadora de<br>Le<span>Monde Selection<br>Grand Golds</span>"
+          },
+          {
+            "imagen": "premio2.png",
+            "cantidad": "3",
+            "titulo": "veces ganadora de<br>Le<span>Monde Selection<br>Grand Golds</span>"
+          },
+          {
+            "imagen": "premio1.png",
+            "cantidad": "12",
+            "titulo": "veces ganadora de<br>Le<span>Monde Selection<br>Grand Golds</span>"
+          }
+        ],
+        "active": true
+      }
+    ]
+  }
+]
